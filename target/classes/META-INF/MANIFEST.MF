@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-start
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: crux
+Implementation-Vendor-Id: com.myspring.firstapp
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ start/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
